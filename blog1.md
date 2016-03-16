@@ -8,16 +8,16 @@ Artifact 1. Installation Instructions on Linux (CS50)
 
 1. git clone https://github.com/Gatiens/butter-desktop.git
 2. sudo npm install -g grunt-cli bower
-sudo not listed as requirement but it was.
 3. npm start
 
+sudo not listed as requirement but it was.
 step 3 gave me errors
 
 ### Next steps tried
 
 1. sudo ./make_butter.sh
-sudo again not listed as required.
 
+sudo again not listed as required.
 again i was given errors, by npm "sh: 1: node: not found"
 
 ### Next they have more granular installation instructions
@@ -32,15 +32,16 @@ step 2 gave me errors
 ### last steps listed for if i had troubles with previous steps
 
 1. sudo npm install -g bower grunt-cli
-sudo listed as required for first time
 2. cd desktop
-this gave me error because there is no package.json file on desktop. don't know why they asked to do this.
 3. npm install
 4. bower install
 5. grunt lang
 6. grunt nwjs
 7. grunt css
 8. grunt start
+
+step 1.sudo listed as required for first time
+step 2. this gave me error because there is no package.json file on desktop. don't know why they asked to do this.
 
 npm install again gave me errors "ENOENT, open '/home/ubuntu/Desktop/package.json'"
 
