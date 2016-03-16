@@ -49,7 +49,6 @@ I believe npm did not like the older version of ubuntu that CS50 is running
 
 ### I know moved to windows
 
-
 Artifact 2. Installation Instructions on Windows 10 64-bit
 ----------------------------------------------------------
 
@@ -64,3 +63,9 @@ Artifact 2. Installation Instructions on Windows 10 64-bit
 i already had jode.js on my machine. can be downloaded at https://nodejs.org/en/
 4. npm start
 this step took a very long time (45 minutes), npm threw out a lot of warnings, but completed without errors.
+
+
+Artifact 3: Revisting CS50 to get butter-project to run (bonus)
+---------------------------------------------------------------
+
+After running npm install and looking at the errors, the version of node.js that is preinstalled on CS50 is to outdated for this project.
