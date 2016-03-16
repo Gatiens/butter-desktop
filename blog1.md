@@ -57,7 +57,7 @@ Artifact 2. Installation Instructions on Windows 10 64-bit
 1. install https://git-scm.com/download/win
 2. run Git-2.7.3-64-bit.exe
 
-### now trying to run bash commands to install butter project
+### run bash commands to install butter project
 1. git clone https://github.com/Gatiens/butter-desktop.git
 2. cd butter-desktop/
 3. npm install -g grunt-cli bower
