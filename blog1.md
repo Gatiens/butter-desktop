@@ -8,7 +8,7 @@ Artifact 1. Installation Instructions on Linux (CS50)
 
 1. git clone https://github.com/Gatiens/butter-desktop.git
 2. sudo npm install -g grunt-cli bower
--sudo not listed as requirement but it was.
+sudo not listed as requirement but it was.
 3. npm start
 
 step 3 gave me errors
@@ -16,7 +16,7 @@ step 3 gave me errors
 ### Next steps tried
 
 1. sudo ./make_butter.sh
--sudo again not listed as required.
+sudo again not listed as required.
 
 again i was given errors, by npm "sh: 1: node: not found"
 
@@ -32,9 +32,9 @@ step 2 gave me errors
 ### last steps listed for if i had troubles with previous steps
 
 1. sudo npm install -g bower grunt-cli
--sudo listed as required for first time
+sudo listed as required for first time
 2. cd desktop
-- this gave me error because there is no package.json file on desktop. don't know why they asked to do this.
+this gave me error because there is no package.json file on desktop. don't know why they asked to do this.
 3. npm install
 4. bower install
 5. grunt lang
@@ -60,6 +60,6 @@ Artifact 2. Installation Instructions on Windows 10 64-bit
 1. git clone https://github.com/Gatiens/butter-desktop.git
 2. cd butter-desktop/
 3. npm install -g grunt-cli bower
-- i already had jode.js on my machine. can be downloaded at https://nodejs.org/en/
+i already had jode.js on my machine. can be downloaded at https://nodejs.org/en/
 4. npm start
-- this step took a very long time (45 minutes), npm threw out a lot of warnings, but completed without errors.
+this step took a very long time (45 minutes), npm threw out a lot of warnings, but completed without errors.
